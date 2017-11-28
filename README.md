@@ -9,6 +9,6 @@ This is my 360 project.
 
 ### Camera Effects
 
-![Eden's_Christmas_Frame](Portfolio/https://github.com/edenking0/edenking0.github.io/blob/master/Eden's%20Christmas%20Frame.PNG?raw=true "Optional Title")
+![Eden's_Christmas_Frame](Portfolio/https://github.com/edenking0/edenking0.github.io/blob/master/untitled.jpg?raw=true "Optional Title")
 
 ***
