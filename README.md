@@ -10,7 +10,7 @@ This is my 360 project.
 
 This is my Camera Effects Project.
 
-![picture_title](https://github.com/edenking0/edenking0.github.io/blob/master/untitled.jpg?raw=true "Optional Title")
+![untitled](https://github.com/edenking0/edenking0.github.io/blob/master/untitled.jpg?raw=true "Optional Title")
 
 
 ***
